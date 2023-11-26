@@ -22,7 +22,9 @@ Then open the terminal in VSCode and type `git init` to initialize the git repos
 
 Then go 2 source control Ctrl+Shift+G
 
-Commit your changes, and then push them to your newly created github repo, make sure its public 😉 
+Commit your changes, write a commit message lige 'First commit to github.io pages' and press Ctrl+Enter or click commit.
+
+then click 'Publish Branch'and make sure to select public repos 😉 
 
 ## Other good guides ##
 
@@ -42,3 +44,4 @@ With youtube video:
 
 [Basic steps for hosting on Github · GitHub](https://gist.github.com/TylerFisher/6127328)
 
+[How To Create a Static Site With GitHub Pages?](https://kinsta.com/blog/github-pages/)
