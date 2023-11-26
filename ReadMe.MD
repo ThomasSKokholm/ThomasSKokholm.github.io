@@ -24,7 +24,9 @@ Then go 2 source control Ctrl+Shift+G
 
 Commit your changes, write a commit message lige 'First commit to github.io pages' and press Ctrl+Enter or click commit.
 
-then click 'Publish Branch'and make sure to select public repos 😉 
+then click 'Publish Branch'and make sure to select public repos 😉
+
+I used background picture from the header from [Jerkyll Architect theme](https://pages-themes.github.io/architect/)
 
 ## Other good guides ##
 
